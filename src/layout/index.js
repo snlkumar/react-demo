@@ -13,11 +13,11 @@ const AppLayout =({children}) =>{
       <div>
         <Header />
       </div>
-      <Container>
+      <Container className="mt-20">
         <Row>
-          <Col><Sidebar /></Col>
-          <Col xs={6}><main className="main-content">{children}</main></Col>
-          <Col>3 of 3</Col>
+          <Col xs={2}>Left Sidebar Placeholder</Col>
+          <Col xs={7}><main className="main-content">{children}</main></Col>
+          <Col xs={3}>Right Sidebar Placeholder</Col>
         </Row>
       </Container>
       <div>
