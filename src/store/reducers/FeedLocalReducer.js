@@ -15,6 +15,7 @@ const FeedLocalReducer = (state = initalState, action) => {
         isError: false,
       };
     case FEED.LOAD_SUCCESS:
+        debugger
       return {
         ...state,
         feedsData: action.feedsData,

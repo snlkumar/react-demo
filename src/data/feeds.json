@@ -1,9 +1,26 @@
 [
     {
       "id": 1,
-      "name": "Daniel",
-      "email": "daniel@gmail.com",
-      "post": "I love football",
-      "votes": 5
+      "description": "Daniel",
+      "owner": {
+        "id": 1,
+        "name": "daniel@gmail.com",
+        "info": "hjhjhj",
+        "avatar": "url"
+      },
+      "likes": 5,
+      "comments": 10
+    },
+    {
+      "id": 2,
+      "description": "second",
+      "owner": {
+        "id": 2,
+        "name": "daniel second",
+        "info": "hjhjhj",
+        "avatar": "url"
+      },
+      "likes": 5,
+      "comments": 10
     }
   ]
