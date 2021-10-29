@@ -1,10 +1,7 @@
 import { Avatar } from '@material-ui/core';
 import React from 'react';
 import './HeaderOption.css';
-import logo from "../../../logo.svg"
 import User from '../../../assets/images/avatars/user1.png'
-
-// import { Avatar } from '@material-ui/core';
 
 function HeaderOption({ avatar, Icon, title, onClick }) {
   

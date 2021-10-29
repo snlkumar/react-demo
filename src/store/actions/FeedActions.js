@@ -1,4 +1,3 @@
-import axios from "axios";
 import FEED from "../../utils/constants";
 import feedJsonData from "../../data/feeds.json"
 

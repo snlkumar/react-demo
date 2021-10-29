@@ -1,26 +1,30 @@
 [
     {
       "id": 1,
-      "description": "Daniel",
+      "description": "As we approach the festive season, 3 Indian brands reveal how rethinking creative storytelling helped their campaigns stand out!",
       "owner": {
         "id": 1,
-        "name": "daniel@gmail.com",
-        "info": "hjhjhj",
-        "avatar": "url"
+        "name": "Think with Google",
+        "info": "841,567 followers",
+        "tag": "Promoted",
+        "avatar": "../../assets/images/profile.jpeg"
       },
-      "likes": 5,
-      "comments": 10
+      "media": {"image_url": "../../assets/images/article.jpeg"},
+      "likes": "Harjap Singh and 3 others",
+      "comments": [{"user": {"name": "BOT", "profile_pic": "../../assets/images/profile.jpeg"}, "comment": {"time": "12:45", "text": "Hi, welcome to SimpleChat! Go ahead and send me a message. 😄"}}]
     },
     {
       "id": 2,
-      "description": "second",
+      "description": "As we approach the festive season, 3 Indian brands reveal how rethinking creative storytelling helped their campaigns stand out!",
       "owner": {
         "id": 2,
-        "name": "daniel second",
-        "info": "hjhjhj",
-        "avatar": "url"
+        "name": "Think with Yahoo",
+        "info": "841,567 followers",
+        "tag": "Promoted",
+        "avatar": "../../assets/images/profile.jpeg"
       },
-      "likes": 5,
-      "comments": 10
+      "media": {"image_url": "../../assets/images/article1.jpeg"},
+      "likes": "Harjap Singh and 3 others",
+      "comments": [{"user": {"name": "BOT", "profile_pic": "../../assets/images/profile.jpeg"}, "comment": {"time": "12:45", "text": "Hi, welcome to SimpleChat! Go ahead and send me a message. 😄"}}]
     }
   ]
